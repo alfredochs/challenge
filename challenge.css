@@ -1,0 +1,92 @@
+body{
+  background-image: url(background.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center top;
+  font-family: 'Dosis', sans-serif;
+}
+
+*{
+  color: white;
+}
+
+.contenitore{
+  width: 3100px;
+  height: 2070px;
+  margin: auto;
+  margin-top: 150px;
+  background-color:  #00000087;
+  text-align: center;
+  border-radius: 50px;
+}
+/* HEADER */
+.logo-img{
+  margin-top: 180px;
+}
+/* Testo sotto al logo */
+h1{
+  font-size: 100px;
+  color: #00dd00;
+  margin:auto;
+}
+
+/* Navigazione */
+.contenitore-nav{
+  width: 2400px;
+  height: 100px;
+  background-color: #00dd00;
+  margin: auto;
+}
+
+nav input {
+  font-size: 40px;
+  margin-top: 25px;
+  color: black;
+}
+
+/* Sezioni */
+
+.button{
+  width: 40px;
+  height: 40px;
+  margin-right: 30px;
+  margin-left: 15px;
+}
+section{
+  font-size: 45px;
+  text-align: left;
+  margin-left: 350px;
+  margin-top: 50px;
+}
+#Symbol:before {
+    content: ' \21A6';
+}
+div h2{
+  display: inline;
+  margin: auto;
+}
+
+.sezioni{
+  margin: auto;
+  text-align:
+}
+
+.barra1{
+  width: 810px;
+  height: 70px;
+  background-color: #f3bd5b;
+  border-radius: 20px;
+}
+
+.barra2{
+  width: 1400px;
+  height: 70px;
+  background-color: #00dd00;
+  border-radius: 20px;
+}
+.barra3{
+  width: 410px;
+  height: 70px;
+  background-color: #c35151;
+  border-radius: 20px;
+}
